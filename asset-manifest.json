@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/accessory_website_project/static/css/main.d00f5bb7.css",
+    "main.js": "/accessory_website_project/static/js/main.629ce753.js",
+    "index.html": "/accessory_website_project/index.html",
+    "main.d00f5bb7.css.map": "/accessory_website_project/static/css/main.d00f5bb7.css.map",
+    "main.629ce753.js.map": "/accessory_website_project/static/js/main.629ce753.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d00f5bb7.css",
+    "static/js/main.629ce753.js"
+  ]
+}

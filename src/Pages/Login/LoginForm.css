@@ -1,0 +1,20 @@
+/* *{
+    outline: 1px solid red ;
+} */
+
+
+form input{
+    border: none;
+    border-bottom: 1px solid rgb(188, 188, 188);
+}
+
+/* 點擊到輸入框時，不顯示框線 */
+form input:focus{
+    outline: none;
+}
+
+form button{
+    background: linear-gradient(180deg, #F2F2F2 0%, #F3F3F3 100%);
+    box-shadow: 0px 4px 10px rgba(56, 29, 29, 0.2);
+}
+

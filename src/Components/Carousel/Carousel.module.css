@@ -1,0 +1,14 @@
+.container{
+    border: 1px solid red;
+    height: 400px;
+}
+
+.dot{
+    width: 10px;
+    height: 10px;
+    background-color: rgb(190, 190, 190);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 99;
+}

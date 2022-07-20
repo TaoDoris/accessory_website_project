@@ -1,0 +1,7 @@
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* 調整照片在框框內的位置 */
+    object-position: 0 60% ;
+}
